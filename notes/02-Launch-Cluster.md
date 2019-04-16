@@ -33,3 +33,5 @@ Next, you will see your cluster with a blue banner along the top indicating that
 
 ![Deploying Cluster](./images/
 02-deploying-cluster.png "Depoying Cluster")
+
+Move onto the [Next Lab](./03-install-compass.md)
