@@ -11,3 +11,4 @@ This workshop is divided into two parts, with Part 1 focusing on Atlas, our full
 You must be able to make outgoing requests from your computer to MongoDB Atlas servers which will be running on port 27017. Please confirm that port 27017 is not blocked by your network by clicking [http://portquiz.net:27017](http://portquiz.net:27017). If successful, you will see a page load that indicates you can make outgoing requests on port 27017.
 
 Administrative privileges to install software on your computer. We will be installing MongoDB Compass in this workshop.
+
