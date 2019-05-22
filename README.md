@@ -12,6 +12,17 @@ You must be able to make outgoing requests from your computer to MongoDB Atlas s
 
 Administrative privileges to install software on your computer. We will be installing MongoDB Compass in this workshop.
 
+### Structure of Workshop
+
+This workshop is structured in modules and branches. Branches are used in git to separate the content of a repository into specific builds or purposes. Since this workshop repo is more about content, we're leveraging branches to separate the content by language for the workshop participants. For example there are branches for the following languages:
+
+* Python
+* JavaScript
+    * React
+    * Vue.JS
+
+The master branch of the repository contains all of the base level information required for the workshop. In order to leverage the language specific branches, participants will need to complete the basic workshop in the master branch.
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.mongodb.com/) or [contact support](https://mongodb.com/support) and we’ll help you sort it out.
