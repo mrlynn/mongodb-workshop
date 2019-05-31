@@ -31,4 +31,4 @@ Next, you will see your cluster with a blue banner along the top indicating that
 
 ![Deploying Cluster](./images/02-deploying-cluster.png "Depoying Cluster")
 
-Move onto the [Next Lab](./03-install-compass.md)
+Move onto the [Next Lab](https://github.com/mrlynn/mongodb-workshop/blob/master/notes/03-Install-Compass.md)
