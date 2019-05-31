@@ -21,17 +21,14 @@ Set the Cluster Name - This can be whatever you like.
 
 Now, click create to create the cluster. 
 
-![Click Create](./images/
-02-create-cluster-click-create.png "Click Create")
+![Click Create](./images/02-create-cluster-click-create.png "Click Create")
 
 Note: You may be prompted to prove that you are a human by selecting images that match a certain pattern.
 
-![Solve Human Check](./images/
-02-solve-human-check.png "Solve Human Check")
+![Solve Human Check](./images/02-solve-human-check.png "Solve Human Check")
 
 Next, you will see your cluster with a blue banner along the top indicating that changes are being deployed. This will take approximately 7 minutes to complete the provisioning process.
 
-![Deploying Cluster](./images/
-02-deploying-cluster.png "Depoying Cluster")
+![Deploying Cluster](./images/02-deploying-cluster.png "Depoying Cluster")
 
 Move onto the [Next Lab](./03-install-compass.md)
